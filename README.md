@@ -1,6 +1,6 @@
 # HTML5
 Exercise and assignment
-Create a new web application. **use the W3schools Try It Yourself playground (Links to an external site.)**
+Create a new web application. **use the W3schools Try It Yourself playground (https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default)**
 
 
 Create a  web page to display the following recipe.

@@ -2,6 +2,7 @@
 Exercise and assignment
 Create a new web application. **use the W3schools Try It Yourself playground (Links to an external site.)**
 
+
 Create a  web page to display the following recipe.
 
 Use the following tags:
